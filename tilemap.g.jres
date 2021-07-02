@@ -1,0 +1,30 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAADd3d3d3d3t3t3d3d3d3e3e3d3d3d3d7d7d3d3d3d3t3t3d3d3d3e3e3d3d3d3d7d7d3d3d3d3t3t3d3d3d3e3e3d3d3d3d7d7d3d3d3d3t3t3d3d3d3e3e3d3d3d3d7d7d3d3d3d3t3t3d3d3d3e3e3d3d3d3d7d7d3d3d3d3d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "garage"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAAigoiIiIiIePL/+Pj//4h38vj4iIj4ePf4+P+IiIj3+IiIiPj4/4f4+P//iIh3iPiI/4j4//+I+IiPj/h3+Ij/iIj4+If/iP+IiIh3iIiI+Pj///f/+Ij4+Pj3iIiIiPj4ePeIiIj4+Ih3iIiIiIj4+P//iIiIiCh3iPiIiIgoIg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "title"
+    },
+    "tile2": {
+        "data": "hwQQABAAAACX53fZ3d1393d5ftnd3Xf3d+7u3t3dd/d37u7e3d1393fu7t7d3Xf3d5ke0d3dd/eXmR7R3d1395eZntHd3Xf3mZme2d3dd/eZ6ZnZ3d1395mZmdnd3Xf3mZmR2d3dd/eZGZHuXu5395kZke7u7nf3VZmR7u7ud/dVmZnu7u539w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Minas garden and her big tree"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
